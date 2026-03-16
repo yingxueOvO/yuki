@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yuki 🌟
+# Yuki(雪)酱 🌟
 
 <img src="./images/yuki/yuki.png" width="200" alt="Yuki">
 
